@@ -1,4 +1,4 @@
-# Pipeline de Integração Contínua — Projeto Fatec
+# Pipeline de Integração Contínua
 
 Projeto acadêmico da disciplina de DevOps (Fatec — Prof. Me. Deivison S. Takatu),
 cujo objetivo é aplicar **3 Actions do GitHub Marketplace** em uma pipeline de
